@@ -7,6 +7,7 @@ Trabalho prático desenvolvido para a disciplina de Teoria dos Grafos / Estrutur
 * **Carolina Froehlich** — 2025999
 * **Adriel Velosa** — 2022901
 * **Leonardo Laudelino** — 2034248
+* **Emilly Camila de Lima** - 1989842
 
 ---
 
